@@ -1,0 +1,17 @@
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\bin\Debug\databaseclass.mdf
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\bin\Debug\databaseclass_log.ldf
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\bin\Debug\数据库课程设计.exe.config
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\bin\Debug\数据库课程设计.exe
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\bin\Debug\数据库课程设计.pdb
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form1.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.exe
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.pdb
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form2.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form3.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form4.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form5.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form6.resources
+d:\用户目录\我的文档\visual studio 2017\Projects\数据库课程设计\数据库课程设计\obj\Debug\数据库课程设计.Form7.resources
